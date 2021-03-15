@@ -1,4 +1,4 @@
-### Hey 👋, I'm [Krazzzzymonkey!](https://github.com/PrudhviGNV)
+### Hey 👋, I'm [Krazzzzymonkey!](https://github.com/Krazzzzymonkey)
 
 
 <br />
