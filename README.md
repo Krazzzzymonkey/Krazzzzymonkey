@@ -20,7 +20,7 @@ Hi, I'm Krazzzzymonkey, a bored computer science student just living life. I do 
 -  Node JS and Web development
 -  Java, JavaScript, Node.js, NPM, Redis
 -  Html, CSS and BootStrap
-<br />
+
 - 💬 Ask me about anything, I am happy to help!
 - 📫 How to reach me: 
 - Discord: Krazzzzymonkey#0001
@@ -28,13 +28,13 @@ Hi, I'm Krazzzzymonkey, a bored computer science student just living life. I do 
 &nbsp;
 **Some Of My Projects:**
 
-- A Minecraft Chat Bot Called <a href="https://anarchybot.cc/" align="left" > AnarchyB0T </a> 
+- A Minecraft Chat Bot Called <a href="https://anarchybot.cc/" align="left" > AnarchyB0T </a> <br />
   [![Join AnarchyB0T's Discord server!](https://invidget.switchblade.xyz/ASYAjUHQvh)](https://discord.gg/ASYAjUHQvh)
 
-- A Minecraft Utility Client Called <a href="https://catalyst.sexy/" align="left" > Catalyst Client </a> 
+- A Minecraft Utility Client Called <a href="https://catalyst.sexy/" align="left" > Catalyst Client </a> <br />
  [![Join Catalyst's Discord server!](https://invidget.switchblade.xyz/SVhedRNDfw)](https://discord.gg/SVhedRNDfw)
 
-- My Minecraft Anarchy Server Called <a href="https://cloudanarchy.org/" align="left" > Cloud Anarchy </a> 
+- My Minecraft Anarchy Server Called <a href="https://cloudanarchy.org/" align="left" > Cloud Anarchy </a> <br />
  [![Join CloudAnarchy's Discord server!](https://invidget.switchblade.xyz/4arsMktFmc)](https://discord.gg/4arsMktFmc)
 
 &nbsp;
