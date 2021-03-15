@@ -25,7 +25,6 @@ Hi, I'm Krazzzzymonkey, a bored computer science student just living life. I do 
 - 📫 How to reach me: 
 - Discord: Krazzzzymonkey#0001
 
-&nbsp;
 **Some Of My Projects:**
 
 - A Minecraft Chat Bot Called <a href="https://anarchybot.cc/" align="left" > AnarchyB0T </a> <br />
@@ -37,7 +36,6 @@ Hi, I'm Krazzzzymonkey, a bored computer science student just living life. I do 
 - My Minecraft Anarchy Server Called <a href="https://cloudanarchy.org/" align="left" > Cloud Anarchy </a> <br />
  [![Join CloudAnarchy's Discord server!](https://invidget.switchblade.xyz/4arsMktFmc)](https://discord.gg/4arsMktFmc)
 
-&nbsp;
  
  
 
