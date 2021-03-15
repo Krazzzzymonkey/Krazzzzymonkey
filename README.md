@@ -12,7 +12,7 @@ Hi, I'm Krazzzzymonkey, a bored computer science student just living life. I do 
 ~ Dan Salomon 
 
 
- [<img align="right" height="300px" width= "320px" alt="GIF" src="https://i.imgur.com/c1yrSSb.gif" />](https://www.reddit.com/r/linuxmemes/)
+ [<img align="right" height="300px" width= "360px" alt="GIF" src="https://i.imgur.com/c1yrSSb.gif" />](https://www.reddit.com/r/linuxmemes/)
 
 **My Skills:**
 
