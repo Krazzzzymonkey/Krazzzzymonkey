@@ -16,7 +16,7 @@ Hi, I'm Krazzzzymonkey, a bored computer science student just living life. I do 
 
 **My Skills:**
 
-- 🎓 Hopefully Graduating in 2023 from **\[radacted]** 
+- 🎓 Hopefully Graduating in 2023 from **\[redacted]** 
 -  Node JS and Web development
 -  Java, JavaScript, Node.js, NPM, Redis
 -  Html, CSS and BootStrap
