@@ -1,16 +1,47 @@
-### Hi there 👋
+### Hey 👋, I'm [Krazzzzymonkey!](https://github.com/PrudhviGNV)
 
-<!--
-**Krazzzzymonkey/Krazzzzymonkey** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+<br />
+ <a href="https://krazzzzymonkey.tech/" align="left" > My portfolio : Krazzzzymonkey.tech </a> 
+<br />
+<br />
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Hi, I'm Krazzzzymonkey, a bored computer science student just living life. I do fun projects, generally for the communuty to enjoy! Always want to learn more and explore concepts outside of my comfort zone. Currently mastering Java and JS.
+
+"Sometimes it pays to stay in bed on Monday, rather than spending the rest of the week debugging Monday’s code."
+~ Dan Salomon 
+
+
+ <img align="right" height="300px" width= "320px" alt="GIF" src="https://media.giphy.com/media/CVtNe84hhYF9u/giphy.gif" />
+
+**My Skills:**
+
+- 🎓 Hopefully Graduating in 2023 from **\[radacted]** 
+-  Node JS and Web development
+-  Java, JavaScript, Node.js, NPM, Redis
+-  Html, CSS and BootStrap
+<br />
+- 💬 Ask me about anything, I am happy to help!
+- 📫 How to reach me: 
+- Discord: Krazzzzymonkey#0001
+
+&nbsp;
+**Some Of My Projects:**
+
+- A Minecraft Chat Bot Called <a href="https://anarchybot.cc/" align="left" > AnarchyB0T </a> 
+  [![Join AnarchyB0T's Discord server!](https://invidget.switchblade.xyz/ASYAjUHQvh)](https://discord.gg/ASYAjUHQvh)
+
+- A Minecraft Utility Client Called <a href="https://catalyst.sexy/" align="left" > Catalyst Client </a> 
+ [![Join Catalyst's Discord server!](https://invidget.switchblade.xyz/SVhedRNDfw)](https://discord.gg/SVhedRNDfw)
+
+- My Minecraft Anarchy Server Called <a href="https://cloudanarchy.org/" align="left" > Cloud Anarchy </a> 
+ [![Join CloudAnarchy's Discord server!](https://invidget.switchblade.xyz/4arsMktFmc)](https://discord.gg/4arsMktFmc)
+
+&nbsp;
+ 
+ 
+
+![Krazzzzymonkeys's github stats](https://github-readme-stats.vercel.app/api?username=Krazzzzymonkey&show_icons=true&hide_border=true)
+
+:pushpin: Dont forget to friend me on on Github :stuck_out_tongue: 
+
