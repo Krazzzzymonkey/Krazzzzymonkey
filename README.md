@@ -2,7 +2,7 @@
 
 
 <br />
- <a href="https://krazzzzymonkey.tech/" align="left" > My portfolio : Krazzzzymonkey.tech </a> 
+ More about me: <a href="https://krazzzzymonkey.tech/" align="left" >Krazzzzymonkey.tech </a> 
 <br />
 <br />
 
