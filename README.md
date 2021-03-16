@@ -6,7 +6,7 @@
 <br />
 <br />
 
-Hi, I'm Krazzzzymonkey, a bored computer science student just living life. I do fun projects, generally for the communuty to enjoy! Always want to learn more and explore concepts outside of my comfort zone. Currently mastering Java and JS.
+Hi, I'm Krazzzzymonkey, a bored computer science student just living life. I do fun projects, generally for the communuty to enjoy! I always want to learn more and explore concepts outside of my comfort zone. Currently mastering Java and JS.
 
 "Sometimes it pays to stay in bed on Monday, rather than spending the rest of the week debugging Monday’s code."
 ~ Dan Salomon 
