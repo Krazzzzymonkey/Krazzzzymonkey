@@ -41,5 +41,5 @@ Hi, I'm Krazzzzymonkey, a bored computer science student just living life. I do 
 
 ![Krazzzzymonkeys's github stats](https://github-readme-stats.vercel.app/api?username=Krazzzzymonkey&show_icons=true&hide_border=true)
 
-:pushpin: Dont forget to friend me on on Github :stuck_out_tongue: 
+:pushpin: Dont forget to follow me on on Github :stuck_out_tongue: 
 
