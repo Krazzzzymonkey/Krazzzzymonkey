@@ -2,8 +2,6 @@
 
 
 <br />
- More about me: <a href="https://krazzzzymonkey.tech/" align="left" >Krazzzzymonkey.tech </a> 
-<br />
 <br />
 
 Hi, I'm Krazzzzymonkey, a bored computer science student just living life. I do fun projects, generally for the communuty to enjoy! I always want to learn more and explore concepts outside of my comfort zone. Currently mastering Java and JS.
