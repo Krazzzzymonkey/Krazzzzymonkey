@@ -23,7 +23,7 @@ Hi, I'm Krazzzzymonkey, a bored computer science student just living life. I do 
 
 💬 Ask me about anything, I am happy to help!
 
-📫 How to reach me: 
+**📫 How to reach me: **
 
  - Discord: Krazzzzymonkey#0001
 
