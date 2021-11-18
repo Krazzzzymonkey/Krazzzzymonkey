@@ -21,11 +21,13 @@ Hi, I'm Krazzzzymonkey, a bored computer science student just living life. I do 
 -  SQL, Redis and InfluxDB 
 
 
-💬 Ask me about anything, I am happy to help!
 
 **📫 How to reach me:**
 
  - Discord: Krazzzzymonkey#0001
+
+💬 Ask me about anything, I am happy to help!
+
 
 **Some Of My Projects:**
 
