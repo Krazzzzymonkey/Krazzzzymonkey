@@ -16,8 +16,10 @@ Hi, I'm Krazzzzymonkey, a bored computer science student just living life. I do 
 
 - 🎓 Hopefully Graduating in 2023 from **\[redacted]** 
 -  Node JS and Web development
--  Java, JavaScript, Node.js, NPM, Redis
+-  Java, JavaScript, Node.js, NPM
 -  Html, CSS and BootStrap
+-  SQL, Redis and InfluxDB 
+
 
 - 💬 Ask me about anything, I am happy to help!
 - 📫 How to reach me: 
